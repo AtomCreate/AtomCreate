@@ -1,8 +1,8 @@
 - Hi, I’m @AtomCreate
 - I’m interested in working on front and back end developement.
-- I’m currently working on my JavaScipt skills.
+- I’m currently working on my JavaScipt and JAVA skills.
 - I’m looking to collaborate on most projects.
-- You can reach me at spazzTTop@gmail.com
+- You can reach me at adamcameron801@gmail.com
 
 <!---
 AtomCreate/AtomCreate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
