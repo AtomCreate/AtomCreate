@@ -1,6 +1,6 @@
 - Hi, I’m @AtomCreate
 - I’m interested in working on front and back end developement.
-- I’m currently working on my JavaScipt and JAVA skills.
+- I’m currently working on my JavaScipt, JAVA, and Python skills.
 - I’m looking to collaborate on most projects.
 - You can reach me at adamcameron801@gmail.com
 
